@@ -1,1 +1,1 @@
-# machine_learning
+# 2020년도 SW 교육 연수
